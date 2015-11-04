@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Description of Contactos
+ * Description of serverSOAP
  *
  * @author Mauricio Herrera <mwherrera@plus-projects.com>
  *         @date 10/03/2014
