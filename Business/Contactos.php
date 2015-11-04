@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Description of Contacts
+ * Description of Contactos
  *
- * @author Andrés Guerrón <aguerron@plus-projects.com>
- *         @date 13/05/2015
- *        
+ * @author Mauricio Herrera <mwherrera@plus-projects.com>
+ *         @date 10/03/2014
+         
  *         0 ok
  *         1 error en xml
  *         2 error parcial en xml
