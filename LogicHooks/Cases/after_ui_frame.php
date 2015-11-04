@@ -1,5 +1,11 @@
 <?php
-
+/**
+ * Description of after_ui_frame
+ *
+ * @author Mauricio Herrera <mwherrera@plus-projects.com>
+ * @date 2/05/2014
+ *
+ */
 if (!defined('sugarEntry') || !sugarEntry)
     die('Not A Valid Entry Point');
 
